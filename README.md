@@ -1,4 +1,4 @@
-# 🧬 Histopathology Image Classification with Machine Learning
+# 🧬 Histopathology Image Classification with Deep Learning
 
 This project explores the classification of histopathological images from the **PathMNIST** dataset, focusing on evaluating preprocessing techniques and comparing the performance of **Gradient Boosting**, **Multilayer Perceptron (MLP)**, and **Convolutional Neural Networks (CNN)**.
 
