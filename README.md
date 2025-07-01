@@ -1,8 +1,3 @@
-# Histopathology Image Classification with Deep Learning
-Here's a concise and structured `README.md` version of your report, tailored for GitHub. This format highlights the core aspects of your work while remaining readable and professional for other developers or researchers:
-
----
-
 # 🧬 Histopathology Image Classification with Machine Learning
 
 This project explores the classification of histopathological images from the **PathMNIST** dataset, focusing on evaluating preprocessing techniques and comparing the performance of **Gradient Boosting**, **Multilayer Perceptron (MLP)**, and **Convolutional Neural Networks (CNN)**.
